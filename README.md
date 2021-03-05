@@ -123,4 +123,4 @@ Kumi Nakai
 [Experimental Aerodynamics Laboratory](http://www.aero.mech.tohoku.ac.jp/eng/)  
 Department of Aerospace Engineering, Tohoku University  
 Sendai, JAPAN  
-E-mail: nakai@aero.mech.tohoku.ac.jp
+E-mail: kumi.nakai@tohoku.ac.jp

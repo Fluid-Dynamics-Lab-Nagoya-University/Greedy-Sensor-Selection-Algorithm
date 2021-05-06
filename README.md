@@ -1,7 +1,6 @@
-<!-- Last modified: 2021/01/07 -->
 # Greedy Sensor Selection Algorithm  
 ---
-This repository contains Matlab R2020a code to reproduce results for a manuscript entitled __"Effect of Objective Function on Data-Driven Sparse Sensor Optimization"__ published in [arXiv](https://arxiv.org/abs/2007.05377).  
+This repository contains Matlab R2020a code to reproduce results for a manuscript entitled __"Effect of Objective Function on Data-Driven Greedy Sparse Sensor Optimization"__ published in [*IEEE Access*, Vol. 9, pp. 46731-46743, 2021](https://ieeexplore.ieee.org/document/9382305).  
 The sparse sensor selection problem is solved by the greedy method.  
 To run the program, excute `P_greedy_demo`.  
 
@@ -103,13 +102,15 @@ If you use `Greedy Sensor Selection Algorithm` code in your work, please cite th
 
 ### Greedy algorithm based on A-and E-optimality:  
 ``` bibtex
-@misc{nakai2020effect,
-      title={Effect of Objective Function on Data-Driven Sparse Sensor Optimization}, 
-      author={Kumi Nakai and Keigo Yamada and Takayuki Nagata and Yuji Saito and Taku Nonomura},
-      year={2020},
-      eprint={2007.05377},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP}
+@ARTICLE{nakai2021effect,
+        author={Kumi Nakai and Keigo Yamada and Takayuki Nagata and Yuji Saito and Taku Nonomura},
+        journal={IEEE Access}, 
+        title={Effect of Objective Function on Data-Driven Greedy Sparse Sensor Optimization}, 
+        year={2021},
+        volume={9},
+        number={},
+        pages={46731-46743},
+        doi={10.1109/ACCESS.2021.3067712}
 }
 ```
 

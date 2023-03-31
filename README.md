@@ -90,13 +90,15 @@ If you use `Greedy Sensor Selection Algorithm` code in your work, please cite th
 
 ### Greedy algorithm based on D-optimality:  
 ``` bibtex
-@misc{saito2020determinantbased,
-      title={Determinant-based Fast Greedy Sensor Selection Algorithm}, 
-      author={Yuji Saito and Taku Nonomura and Keigo Yamada and Keisuke Asai and Yasuo Sasaki and Daisuke Tsubakino},
-      year={2019},
-      eprint={1911.08757},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP}
+@ARTICLE{saito2021determinant,
+  	author = {Yuji Saito and Taku Nonomura and Keigo Yamada and Kumi Nakai and Takayuki Nagata and Keisuke Asai and Yasuo Sasaki and Daisuke Tsubakino},
+  	journal = {IEEE Access},
+  	title = {Determinant-Based Fast Greedy Sensor Selection Algorithm},
+  	year = {2021},
+  	volume = {9},
+  	pages = {68535--68551},
+  	publisher = {IEEE},
+        doi={10.1109/ACCESS.2021.3076186}
 }
 ```
 
@@ -110,6 +112,7 @@ If you use `Greedy Sensor Selection Algorithm` code in your work, please cite th
         volume={9},
         number={},
         pages={46731-46743},
+  	publisher = {IEEE},
         doi={10.1109/ACCESS.2021.3067712}
 }
 ```

@@ -124,7 +124,12 @@ If you use `Greedy Sensor Selection Algorithm` code in your work, please cite th
 ## Author
 ---
 Kumi Nakai  
-[Experimental Aerodynamics Laboratory](http://www.aero.mech.tohoku.ac.jp/eng/)  
+[Research Institute for Energy Conservation](https://unit.aist.go.jp/ieco/en/index.html)  
+Department of Energy and Environment, National Institute of Advanced Industrial Science and Technology (AIST)  
+Tsukuba, JAPAN  
+
+[Experimental Aerodynamics Laboratory](http://www.aero.mech.tohoku.ac.jp/en/)  
 Department of Aerospace Engineering, Tohoku University  
 Sendai, JAPAN  
-E-mail: kumi.nakai@tohoku.ac.jp
+
+E-mail: kumi.nakai@aist.go.jp
